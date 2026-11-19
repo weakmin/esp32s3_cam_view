@@ -1,0 +1,25 @@
+# 构建产物
+build/
+managed_components/
+sdkconfig.old
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# 依赖
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
